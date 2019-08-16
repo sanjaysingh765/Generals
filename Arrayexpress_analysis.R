@@ -1,3 +1,5 @@
+#modified from https://www.biostars.org/p/269082/
+
 ## Install required libraries
 #source("https://bioconductor.org/biocLite.R")
 #biocLite("affy","ArrayExpress")
