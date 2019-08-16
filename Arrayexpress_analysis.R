@@ -42,25 +42,3 @@ normalized.agi.final <- normalized.agi.final[,-1]
 #The resulting gene expression dataset contains unique row identifies (i.e. AGI locus), and different expression values obtained from different experiments on each column
 # To export this data matrix from R to a tab-delimited file use the following command. The file will be written to the folder that you set up as your working directory in R using the setwd() command in line 1 above:
 write.table (normalized.arabidopsis ,"Gene_expression.txt", sep="\t",col.names=NA,quote=F)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
