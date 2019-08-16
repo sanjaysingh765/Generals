@@ -1,5 +1,3 @@
-install.packages("affy")
-
 ## Install required libraries
 #source("https://bioconductor.org/biocLite.R")
 #biocLite("affy","ArrayExpress")
