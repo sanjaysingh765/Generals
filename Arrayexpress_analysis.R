@@ -7,6 +7,9 @@
 library(ArrayExpress)
 library(aff)
 
+#download all raw data/CEL files from the given accession number
+rawset = ArrayExpress("E-MEXP-1422")  # change the accession number
+
 # To read all CEL files in the working directory and normlize them:
 Data <- ReadAffy()
 eset <- rma(Data)
