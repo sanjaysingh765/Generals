@@ -9,7 +9,7 @@ library(aff)
 
 # To read all CEL files in the working directory and normlize them:
 Data <- ReadAffy()
-eset <- ?rma(Data)
+eset <- rma(Data)
 norm.data <- exprs(eset)
 head(norm.data)
 
