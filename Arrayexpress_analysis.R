@@ -1,14 +1,27 @@
 #modified from https://www.biostars.org/p/269082/
+#This script uses accession number as command
+#Uses Rscript script_name accession mnumber
+
+##First read in the arguments listed at the command line
+args=(commandArgs(TRUE))
+
+##args is now a list of character vectors
+## First check to see if arguments are passed.
+if(length(args)==0){
+    print("Please give a valid accession number such as E-MEXP-2053")
+}else{
+
 
 ## Install required libraries
 #source("https://bioconductor.org/biocLite.R")
 #biocLite("affy","ArrayExpress")
 
 library(ArrayExpress)
-library(aff)
+library(affy)
 
 #download all raw data/CEL files from the given accession number
-rawset = ArrayExpress("E-MEXP-1422")  # change the accession number
+getAE(args, path = getwd(), type = "full", extract = TRUE, local = FALSE, sourcedir = path)
+#rawset = ArrayExpress(args)  # change the accession number
 
 # To read all CEL files in the working directory and normlize them:
 Data <- ReadAffy()
@@ -47,3 +60,5 @@ normalized.agi.final <- normalized.agi.final[,-1]
 #The resulting gene expression dataset contains unique row identifies (i.e. AGI locus), and different expression values obtained from different experiments on each column
 # To export this data matrix from R to a tab-delimited file use the following command. The file will be written to the folder that you set up as your working directory in R using the setwd() command in line 1 above:
 write.table (normalized.arabidopsis ,"Gene_expression.txt", sep="\t",col.names=NA,quote=F)
+
+}
