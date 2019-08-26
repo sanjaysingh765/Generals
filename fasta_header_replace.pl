@@ -9,11 +9,9 @@ open(my $fh_annotations, $header) or die "Can't open $header";
 my @annotfile = <$fh_annotations>;
 close $fh_annotations;
 
-
 # file where output will be saved 
 my $result = 'result.fasta';
 open(RESULT, '>', $result);
-
 
 # Read the sequence file
 print"Enter sequence file...\n";
