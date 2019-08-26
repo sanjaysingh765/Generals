@@ -11,10 +11,10 @@ http://www.bioinformatics-made-simple.com/2019/08/how-to-get-gene-expression-val
 # fasta_header_replace.pl
 to replace the fasta description with the new description save in another file.
 header file
- M54089d	protein1
- M54089c	protein2
- M54089b	protein3
- M54089a	protein4
+    M54089d	protein1
+    M54089c	protein2
+    M54089b	protein3
+    M54089a	protein4
 
 sequence file 
 >M54089d
