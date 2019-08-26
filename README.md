@@ -10,3 +10,4 @@ http://www.bioinformatics-made-simple.com/2019/08/how-to-get-gene-expression-val
 
 # fasta_header_replace.pl
 to replace the fasta description with the new description save in another file.
+http://www.bioinformatics-made-simple.com/2019/08/how-to-renaming-fasta-headers-according.html
