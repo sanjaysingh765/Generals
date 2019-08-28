@@ -99,20 +99,3 @@ rm $query.modified
 rm $query.old_header
 rm $query.AHRD.new_header
 rm new_header
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
