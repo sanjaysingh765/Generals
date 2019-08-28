@@ -12,3 +12,9 @@ http://www.bioinformatics-made-simple.com/2019/08/how-to-get-gene-expression-val
 to replace the fasta description with the new description save in another file.
 
 http://www.bioinformatics-made-simple.com/2019/08/how-to-renaming-fasta-headers-according.html
+
+
+#run_AHRD.sh
+to run Automated Assignment of Human Readable Descriptions (AHRD) and perfrom fasta header mapping
+
+
