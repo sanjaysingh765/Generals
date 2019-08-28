@@ -15,7 +15,7 @@ query="$1"
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
-if [[ -f ./database/uniprot-viridiplantae.dmnd && -f ./database/arabidopsis.dmnd && -f ./database/uniprot-taxonomy_viridiplantae_trembl.dmnd ]]
+if [[ -f ./database/uniprot_sprot.dmnd && -f ./database/arabidopsis.dmnd && -f ./database/uniprot_trembl.dmnd ]]
 
 then
 
@@ -34,7 +34,7 @@ fi
 #
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-if [[ -f $query.blast_result/$query.uniprot_sprot && -f $query.blast_result/$query.arabidopsis ]]
+if [[ -f $query.blast_result/$query.uniprot_sprot && -f $query.blast_result/$query.arabidopsis  && -f $query.blast_result/$query.uniprot_trembl ]]
 
 then
 
@@ -45,7 +45,7 @@ else
 echo BLAST is running
 ./dist/diamond blastp -d database/uniprot_sprot --outfmt 6 -k 1 -o $query.blast_result/$query.uniprot_sprot -q $query
 ./dist/diamond blastp -d database/arabidopsis --outfmt 6 -k 1 -o $query.blast_result/$query.arabidopsis -q $query
-./dist/diamond blastp -d database/uniprot-taxonomy_viridiplantae_trembl --outfmt 6 -k 1 -o $query.blast_result/$query.uniprot_trembl -q $query
+./dist/diamond blastp -d database/uniprot-taxonomy_trembl --outfmt 6 -k 1 -o $query.blast_result/$query.uniprot_trembl -q $query
 
 fi
 
@@ -55,8 +55,6 @@ fi
 # Run AHRD
 #
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-
 
 echo creating the configuration file
 sed -e "s/query/$query/g"  ./resources/my_ahrd_input.yml > $query.ahrd_input.yml
