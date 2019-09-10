@@ -1,4 +1,3 @@
-library("reshape2")
 library(ggplot2)
 library(plyr)
 library(scales)
@@ -6,15 +5,10 @@ library(scales)
 #upload data
 df1 <- read.csv("expression.csv", header=T)
 df1
-
-
 # Use of rescale
 tableau.m <- ddply(df1, .(Time), transform, rescale = rescale(expression))
 # Order data for titles
 tableau.m$Gene <- factor(tableau.m$Gene, levels = rev(unique(tableau.m$Gene)), ordered=TRUE)
-
-
-
 
 #make plot
 png("Expression.png", units="in", family="Times",  width=2.5, height=2, res=300, pointsize = 2) #pointsize is font size| increase image size to see the key
@@ -48,20 +42,3 @@ ggplot(tableau.m , aes(Time, Gene,fill = rescale)) +
     
   dev.off() 
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-
-
