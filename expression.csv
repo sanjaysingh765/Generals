@@ -1,0 +1,13 @@
+Gene,Time,expression,significance
+Gene1,1h,3,*
+Gene1,2h,20,*
+Gene1,4h,4,*
+Gene2,1h,8,*
+Gene2,2h,150,*
+Gene2,4h,1.2,
+Gene3,1h,3,*
+Gene3,2h,80,*
+Gene3,4h,1.3,
+Gene4,1h,6,*
+Gene4,2h,1.2,
+Gene4,4h,1,
