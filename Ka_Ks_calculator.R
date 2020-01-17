@@ -1,6 +1,4 @@
 # Script to calculate Ka, Ks, Ka/Ks ratio and divergence time
-
-
 #initiate libraries
 library(seqinr)
 library(ape)
@@ -27,10 +25,8 @@ lambda <- 6.96*10^-9
 divergence <- (ks/(2*lambda))
 dt <- divergence/1e6  #convert to million
 
+#Save results
 write.csv(as.matrix(ratio), "ORC+KaKs_ratio.csv")
 write.csv(as.matrix(ks), "ORC+Ks.csv")
 write.csv(as.matrix(ka), "ORC+Ka.csv")
 write.csv(as.matrix(dt), "ORC+divergence_time.csv")
-
-
-
