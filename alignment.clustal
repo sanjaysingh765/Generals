@@ -1,0 +1,257 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Gene-2.28           ------------------------------------------------------------	0
+Gene-2.37           ------------------------------------------------------------	0
+Gene-2.12           ------------------------------------------------------------	0
+Gene-2.4            ------------------------------------------------------------	0
+ORCAA               ------------------------------------------------------------	0
+ORCAB               ATGGAGTTTTCAGCTACTAATTTTATCTCTGAATCTGATCTTTCCCGTCTTGATTCCATT	60
+cal_g006465.t1      ------------------------------------------------------------	0
+cal_g006468.t1      ------------------------------------------------------------	0
+ORCAE               ------------------------------------------------------------	0
+cal_g006467.t1      ------------------------------------------------------------	0
+cal_g006466.t1      ------------------------------------------------------------	0
+ORCAD               ------------------------------------------------------------	0
+ORCAC               ------------------------------------------------------------	0
+                                                                                
+
+Gene-2.28           ------------------------------------------------------------	0
+Gene-2.37           ------------------------------------------------------------	0
+Gene-2.12           ------------------------------------------------------------	0
+Gene-2.4            ------------------------------------------------------------	0
+ORCAA               ------------------------------------------------------------	0
+ORCAB               ACGCAACATCTTCTAGACGATTCTAATTTTTCAGATATCTTTTTTGAATTTTTTTCTGAA	120
+cal_g006465.t1      ------------------------------------------------------------	0
+cal_g006468.t1      ------------------------------------------------------------	0
+ORCAE               ------------------------------------------------------------	0
+cal_g006467.t1      ------------------------------------------------------------	0
+cal_g006466.t1      ------------------------------------------------------------	0
+ORCAD               ------------------------------------------------------------	0
+ORCAC               ------------------------------------------------------------	0
+                                                                                
+
+Gene-2.28           ------------------------------------------------------------	0
+Gene-2.37           ------------------------------------------------------------	0
+Gene-2.12           ------------------------------------------------------------	0
+Gene-2.4            ------------------------------------------------------------	0
+ORCAA               ------------------------------------------------------------	0
+ORCAB               TCAGCACCGGAATCTTCAGTAATATCTGGAGATAGTTCAACTAAATTATTTACGGAGGTT	180
+cal_g006465.t1      ------------------------------------------------------------	0
+cal_g006468.t1      ------------------------------------------------------------	0
+ORCAE               ------------------------------------------------------------	0
+cal_g006467.t1      ------------------------------------------------------------	0
+cal_g006466.t1      ------------------------------------------------------------	0
+ORCAD               ------------------------------------------------------------	0
+ORCAC               ------------------------------------------------------------	0
+                                                                                
+
+Gene-2.28           ------------------------------------------------------------	0
+Gene-2.37           ------------------------------------------------------------	0
+Gene-2.12           ------------------------------------------------------------	0
+Gene-2.4            ------------------------------------------------------------	0
+ORCAA               ------------------------------------------------------------	0
+ORCAB               AATTGGAGCGATCAAAAATTTTCGGCAGCGTCTACAGAAGAAGTCGGAAATATATCTCCC	240
+cal_g006465.t1      ------------------------------------------------------------	0
+cal_g006468.t1      ------------------------------------------------------------	0
+ORCAE               ----------------------------------------ATGTATCAATCAAATACCCA	20
+cal_g006467.t1      ----------------------------------------ATGTATCAAGAAACCATGTC	20
+cal_g006466.t1      ----------------------------------------ATGTATCGAGAAACCATCTC	20
+ORCAD               ----------------------------------------ATGTCCGAAGAAATCATTTC	20
+ORCAC               -------------------------------------ATGCTTGATGAAATTACTATTTC	23
+                                                                                
+
+Gene-2.28           ------------------------------------------------------------	0
+Gene-2.37           ------------------------------------------------------------	0
+Gene-2.12           ------------------------------------------------------------	0
+Gene-2.4            ------------------------------------------------------------	0
+ORCAA               ------------------------------------------------------------	0
+ORCAB               CAATTAACCTCCGTCAATATTCTGGAACTTTCTCCA-TCCGAAGAAAGTTCTAGAATATC	299
+cal_g006465.t1      ------------------------------------------ATGGAG-TACTGTTCATC	17
+cal_g006468.t1      ---------------------------------------------------------AT-	2
+ORCAE               TAAT-----TCCGA---TCATCTAACCTTCTTACCACCTTTAGTAGATTATCAATTCCTC	72
+cal_g006467.t1      AACT-----AC------TGATAGAGCACTTCTCG---CAGCAATCGAGGAGCATCTTCTC	66
+cal_g006466.t1      AGAT-----TT------TGATCAGGCTATGCTAT---CAGTTATAGAAGATCATCTTCTG	66
+ORCAD               CGTC-----TC------AGATCGATTTCTTCTTT---CCTTAATCGAAGAACATCTTCTC	66
+ORCAC               AGCC-----TC------CGATCTAGCTCTTTTAT---CCTTCATAGAAGAACATCTTCTC	69
+                                                                                
+
+Gene-2.28           --------------------ATGTATGAACCAAGCTGCTCAGAGTCTGACCTAG------	34
+Gene-2.37           --------------------ATGTATCCAGCAACCTTCACAGATTCTGATCTTG------	34
+Gene-2.12           --------------------ATGTATCAAACTACCATCCCAGTCTCAGATCAAG------	34
+Gene-2.4            --------------------ATGCATCAAGCTACCCTCCCAGTCTCAGATCAAG------	34
+ORCAA               -----------------------------------ATGAATGAAACTTCAAAAGCCTTCC	25
+ORCAB               AAGCCCCAATGATAACACTTTTCTTTCAACGGA-GGTTAACGGAGATTATTTAGAATTTC	358
+cal_g006465.t1      AAACCCCATCTCTGATTCTG----------------------------ATCTTG------	43
+cal_g006468.t1      ------------GAATGATT------TAAAAGG-ATTATCAGATTACGATGAG-------	36
+ORCAE               AACAACG-ATTTTGATTTTT------CAGAAAT-ATTTACAGATTTCAATTACG-CTAAT	123
+cal_g006467.t1      GAAGATT-CTAAAACCTCAG------ATA-------------------------------	88
+cal_g006466.t1      AACGATT-CTTTAGATTGTA------CGGAAAG-AAA-----------------------	95
+ORCAD               AGCGATA-ATTCTGATGATT------CCAGCTC--GG-----------------------	94
+ORCAC               AGTGATT-CCTCCGAAATTC------TTCCGAA-CAG-----------------------	98
+                                                                                
+
+Gene-2.28           --CCCTCCTAGCATCCATAGAACACC---ATCTTCTA---AACGGCACCGACTTGTCCGA	86
+Gene-2.37           --CACTTCTTGAATCAATACAGCAGC---AGCTTCAA---AATGATTCTGACTTTTCAGA	86
+Gene-2.12           --CCCTTCTAGCATCCATAGAACAGC---ACCTTCTC---AATGACTCAGACTATTCAGA	86
+Gene-2.4            --CCCTTCTAGCATCCATAGAACAGC---ACCTTCTC---AATGACTCAGACTATTCAGA	86
+ORCAA               TACCGT--------CCGATGAACATCAATATCTTTTCGAGGGTTCAGATCTACCAGAATT	77
+ORCAB               TGGCAACCTTGACAGAAGAAGCCGGGAA-TATATCTCCCCAATTAATCGCCGTTGAACTT	417
+cal_g006465.t1      --CCCTCCTTGATTCCATAGCACACC---ATCTTCTCCACGATTATTCCGATTTTTCACT	98
+cal_g006468.t1      ----------------------CTAGAATTTCTAGA-------AGCAATGGAGCATTATC	67
+ORCAE               TATAATTATAAT--AATTCTACCTCAGATAATTTCTC----TGGTTTTCAATTCAAT-GA	176
+cal_g006467.t1      --------------------------------------------------------ATGA	92
+cal_g006466.t1      -----TGC----------------------------------------CGGTTCGGATGA	110
+ORCAD               -----A--------------------ATTGACTTCTA----CAGAGGAAAATTGGGAAGA	125
+ORCAC               -----TGATGAC--GACGACAGCTCGAATCACTTAA-----TCGACAGCAGCTGGGAAGA	146
+                                                                                
+
+Gene-2.28           AACTTTTCCACAAGTGATGAATCCGTCTAA---------AGCAACGAGTTATGATCCCAG	137
+Gene-2.37           TATTTTCCCAGCAATGAGTTTGTTTGATTC---------AACACAATA---CAATCCCAA	134
+Gene-2.12           AATTTTTGCAGAATTAAATTCATATACTGC---------CAGCCAAAG---TTCTGGTAG	134
+Gene-2.4            AATTTTTGCTGAGTTCAATTCATACACTGC---------CAGCCCAAG---TTTTGAAAG	134
+ORCAA               AATCTTTCCAGAATTAACTTCTTCTAATCA---------TCATAGTTA------------	116
+ORCAB               T-------------------CTTCCGAAGA---------AAGTTCTAC---AATATCAAG	446
+cal_g006465.t1      TATTTTTCCTGAATTGGGATTTACTGATGA---------CACTACTCC---CGCCTGCAG	146
+cal_g006468.t1      ACGATGATGATGATTTCG---------------ACTTGTCGGAAATCTTTCCTCCTAATG	112
+ORCAE               AAATTGCGAAGAAATTAT---TTCACCAAA----------------TTATGCTTCGGAAG	217
+cal_g006467.t1      TATTTTTACAGAAAT-------------------------------GAGTGGCAGTAGTT	121
+cal_g006466.t1      TCAATGGAAGGAAATTAATATCTGGGAAGA--------------ATGTCTGTTACAAGAG	156
+ORCAD               AATTTTTGCAGAATTTCTAAATTGGTCGGG---------------------ATCCGAAAT	164
+ORCAC               AATTTTGTTGAAATCGATTCTGGAGCCGGAACCTCCCGCCGGAAGTCTAAGCTCCGAAAG	206
+                                                                                
+
+Gene-2.28           CCCAAGTTT-------GTGCACTCCCCATTCGGT---GGAAAATTGGGAAGAAAATATGC	187
+Gene-2.37           CTCAATTTC-------AACATGC---------------------AGCAACTCCCTTGCCA	166
+Gene-2.12           CTCCTGGGG-------GGAAACA---------------------GTGACAGAAAATGT--	164
+Gene-2.4            CTCCTGGGG-------GCAAACA---------------------GTGGCAAAATATGC--	164
+ORCAA               ----TAATA-------ATTCCTTCCAATTTCC-T----GAAAATTGGGAAGAATTATTAT	160
+ORCAB               CCCTGGAGA-------CAACATTTTCATTTACACGGAGGCTAATGGGGGAGATTTAGGGT	499
+cal_g006465.t1      TGCATCAGA-------TTCCAGCTCGAGTTCCGG------------CTCGGGCTCGGGCT	187
+cal_g006468.t1      ATCAAAATACGGCGCCGTCTAATTCTAGTTACGT---ACCTAA-TTTCAGCAATGAAAAT	168
+ORCAE               ATTTATCGG-------ATA---TTATTTTAACAG---ATA--T-TTTCAAGGATCAGGAT	261
+cal_g006467.t1      GGAAAGAAG-------AGTTAATACTAATGTTGG---CAG--A-TTTTGAGGATCAGAGT	168
+cal_g006466.t1      CTAACTGAT-------AATTGCTACTACTGCAAC---AAT--C--------ACTCC----	192
+ORCAD               ACAGA-------------------------AACC---CGG--T-AGCCCGAGTTCC----	189
+ORCAC               CTGCAGCAA-------CAGTACTGCTACTGCCGC---CGG--A-AGTCTAAGCTCC----	249
+                                                                                
+
+Gene-2.28           TAAACACTGTGAA-TTGTTCATCAGAACCAGAATGC----GAGTTCAGGTTCGAAAATTG	242
+Gene-2.37           TTGCAAGTTCAGG-GGAAACAAAGCAACCTGACGAT----AA------GTTGGGATATGA	215
+Gene-2.12           ----------CAG-TTACTCATCAGGAGTTGTGAAT----CA------GTTGTGCTGTGA	203
+Gene-2.4            ----------CAA-TTACTCACCGGGAGTTGTAAAT----CA------GTTGTGCTGTGA	203
+ORCAA               TA-ATTCCCCCAAATGCTGGTATTAACGATTTATCCAACGTAGCA----GAATGCCACGT	215
+ORCAB               TTAATTACGTCGACAGTAACTCCCCGAC--GTCGACGGAGTCGCAAGAAGAAGACATGGC	557
+cal_g006465.t1      CGGGCTCGGGCTACGGATTCTTTTACAG--C---------TGCTCTAACTTGGCGGAAAC	236
+cal_g006468.t1      CA-CGAGAAGCAGCAGCCGGTGGTGGCGGAGG--GT----GA---AGGA-GAATTGCCGT	217
+ORCAE               AA-T-TACG-AAGACGAAGTCGTTGCGGGAGAACAA----GAAGAAGAATTAATTACGAC	314
+cal_g006467.t1      AC-A-GGTGGCGCCGCCAGCACGACGACGAAGGCGG----CAAGCTCGA-ATATTTCAGT	221
+cal_g006466.t1      -----GGCGACAGTGGTTCGAATTCGGCGAGTTCGG----GT----------AGTGGTGT	233
+ORCAD               -----GAAAGCTGTCAATCGAATTCAATGGCGGAAA----GC----------TGTCAGGA	230
+ORCAC               -----GAAAGCTGCAGCAACAGTACTGCTACTGCCG----CCGGTAGTCCAAGTTCCGAA	300
+                                                                                
+
+Gene-2.28           TGAGGAC---ATAGGAAAAGAAACGGTGGTGGCACGTGCCCAACAGGCGCCCACGAATTG	299
+Gene-2.37           TGAGGGCATGAGAAAGGAGGAGTACGAAGTGGCGCGTGGAAGGAACGTGCCAACAGAATG	275
+Gene-2.12           TGAATTG---GAAGAAACATTGGTAGGAGAAGGGCCTGTAGTACAAGCTTCTGTGAATTG	260
+Gene-2.4            TGAATTG---GAAGAAACATTGGTAGGAGAAGGGCCTGTAGTACAAGCTTCTGGGAATTG	260
+ORCAA               GGAGGTCAAACAAGAGTTGACTGCATTAGCAATAGGAAAAAAATCAAAGAACGTCGAGTG	275
+ORCAB               CGGGAAGAAGAAGAAGGCAGGGGCGGCGGCACGTGGAAAGAACGCGCCGACGGATCAGTG	617
+cal_g006465.t1      AGAAAAGAAGACAACAGCAGTGGCGCGTGGAAATGGAAAAGACGCGCGGGCTGACGATTG	296
+cal_g006468.t1      TGCCGGTAAT-----CGGGGAACAGAACTGCTCCTCCTCCTCCTCGATGGATAAGAGCTG	272
+ORCAE               ACCTACCTCTCGCGGCGGCGGCGGCGGCGGCGGATGCGAGCAGAGATCGAATGAGGAATG	374
+cal_g006467.t1      AAATAAGAA------GTTGGAGAGTAGCGAAGAAGAAGATGATTGTTGTAAAGAGGTGTG	275
+cal_g006466.t1      AGATAGTGAAGAAGAGATAATATCAGTTGGAGGTAGGAGTTATGAAAAATCGAAGGAATG	293
+ORCAD               GGATTCTGTTGTGGGAACCCCGCCAGAAGCGGCGGCCGGAGGAGGTTGTTCGAAGGATTG	290
+ORCAC               AGCTGCTGCAATAG-TAGTACTGCCGCCGAAAGTAGTAGTGAAGAAAATTCTGAGGAATG	359
+                                                                              **
+
+Gene-2.28           GAATAGGTACCGTGGCGTGAGAAGATGGCCGTGGGGTACTTTCGGGGCCGAAATAAGAGA	359
+Gene-2.37           GAGGAGATACAGGGGTGTAAGGCGTAGGCCGTGGGGGAAGTTCGCAGCAGAGATTAGAGA	335
+Gene-2.12           GAACAGGTACCGGGGAGTGAGGCGTAGGCCGTGGGGGAAGTTTGCGGCGGAAATAAGAAA	320
+Gene-2.4            GAACAGATACCGGGGAGTGAGGCGTAGGCCGTGGGGGAAGTTTGCGGCGGAAATAAGAAA	320
+ORCAA               GAGGAGGTACCGCGGCGTAAGACGGAGGCCGTGGGGGACTTTTGCGGCGGAGATAAGAAA	335
+ORCAB               GACGAGATATAGGGGAGTGAGGCGGAGGCCGTGGGGGAGATTTGCGGCGGAGATAAGAGA	677
+cal_g006465.t1      GACGAGGTATCGAGGAGTAAGGCGGAGGCCGTGGGGGAAATTTGCGGCGGAGATAAGAGA	356
+cal_g006468.t1      GAACAGGTACCGCGGTGTAAGACGGCGTCCGTGGGGAAAATTTGCTGCCGAAATCAGAGA	332
+ORCAE               GATTAGGTACCGTGGCGTTAGACGGCGGCCATGGGGGAAATTCGCTGCGGAAATCAGAGA	434
+cal_g006467.t1      GAATAGGTATAAAGGCGTGAGGCGGAGGCCGTGGGGGAAGTTTGCGGCGGAGATAAAAGA	335
+cal_g006466.t1      GAACAGGTACAAGGGAGTGAGGCGGAGGCCGTGGGGGAAGTTCGCGGCGGAGATTAGAGA	353
+ORCAD               GAACCGGTATAAGGGCGTTAGACGGCGGCCGTGGGGGAAGTTTGCGGCGGAGATAAGGGA	350
+ORCAC               GAAGCGGTACAGAGGCGTTAGACGGCGGTTATGGGGAAAATTTGCGGCGGAGATTAGAGA	419
+                    **   * **    ** ** **  *  *    ***** *  ** *  ** ** ** *   *
+
+Gene-2.28           CCCCAAC---------AGGAAAGGTTCAAGAATATGGCTAGGGACTCATGAGACACCAGA	410
+Gene-2.37           CCCCAGT---------AGGAAAGGATCAAGAATTTGGCTAGGCACTTACGAGACACCAGA	386
+Gene-2.12           CCCCGAC---------AAAAAAGGTTCAAGAATTTGGCTTGGAACATATGAGACACCAGA	371
+Gene-2.4            CCCCGAC---------AAAAAAGGTTCAAGAATTTGGCTTGGAACATATGAGACACCAGA	371
+ORCAA               TCCGATG---------AAGAAAGGGTCGAGAATATGGCTTGGGACTTACGAAACACCTGA	386
+ORCAB               TCCGAAT---------AAGAAAGGATCGAGGATTTGGTTGGGTACGTACGAGACGCCTGA	728
+cal_g006465.t1      TCCGGTG---------AGGAAAGGATCGAGAATGTGGCTGGGAACATACGAGACAGCGGA	407
+cal_g006468.t1      TCCAGCGAAGAAGAAGAAAGGAGGTTCGAGGATTTGGCTAGGGACGTACGAGACGCCGGA	392
+ORCAE               TCCCAAG---------AGAAAAGGATCGAGGATATGGTTGGGAACTTACGAGACGGCGGA	485
+cal_g006467.t1      TACGAAG------AACAAGAAGGGACGTAGGATTTGGTTGGGAACGTACGGAACGCCGGA	389
+cal_g006466.t1      TCCGGTG---------AGAAAAGGGGCGAGAATTTGGTTAGGAACATACGAGACGCCGGA	404
+ORCAD               TCCGAAT---------AAGAAAGGATCCAGGATTTGGTTGGGTACATACGAGACACCTGA	401
+ORCAC               TCCCAAT---------AAGAAAGGATCGAGGATTTGGTTGGGTACATACGAGACGCCTGA	470
+                      *             *     **    ** ** *** * ** **  * *  **  * **
+
+Gene-2.28           GGATGCAGCATTGGCTTATGATCAAGCTGCATTTAAAATGCGTGGTGCAAGAGCTAGGTT	470
+Gene-2.37           GGATGCTGCACTGGCTTATGATAGAACTGCTTTTCAAATGCGTGGTGCAAGAGCTTTGCT	446
+Gene-2.12           GGATGCAGCATTGGCATATGACAAAGCTGCTTTTGAAATGCGTGGTGCAAGAGCTAGGCT	431
+Gene-2.4            GAATGCAGCATTGGCATATGACAAAGCTGCTTTTAAAATGCGTGGTGCAAGAGCAAGGCT	431
+ORCAA               GGACGCGGCTATAGCTTACGATCGAGCCGCTTTTAAGTTGCGTGGAGCTAAAGCTAGGTT	446
+ORCAB               GGATGCAGCATTAGCTTATGATAGAGCCGCGTTTCAGATACGTGGAGCTAAAGCTTTACT	788
+cal_g006465.t1      AGATGCAGCGTTGGCTTACGACGAAGCTGCTTTTCGGATTCGTGGTGCGAAAGCTCGGCT	467
+cal_g006468.t1      GGAAGCTGCCGTGGCTTTTGATCAAGCTGCTTTTAAGTTGCGCGGTTCCAGAGCCAGACT	452
+ORCAE               AGATGCGGCATTAGCTTTCGATCAAGCGGCGTTTCAACTTCGTGGTTCTAGAGCTAGGTT	545
+cal_g006467.t1      GGATGCTGCATTGGCTTACGATCAAGCTGCTTTTAAATTGCGCGGTGCTAAGGCTAGACT	449
+cal_g006466.t1      GGATGCAGCATTGGCTTATGATAAAGCCGCTTTCCAAATGCGTGGTGCTAAGGCTAGGCT	464
+ORCAD               GGATGCAGCATTGGCTTATGATGCAGCCGCGTTTAATATGCGTGGAGCTAAAGCTAGGCT	461
+ORCAC               GGATGCAGCATTGGCTTATGATGGAGCCGCGTTTAAAATGCGTGGATCTAAAGCTAAGCT	530
+                      * ** **  * ** *  **   * * ** **     * ** **  * *  **     *
+
+Gene-2.28           AAATTTTCCCCACCTGATTGATTCTAGTTATAATTTGAATCTCGTTAGGGTGAATCCGAG	530
+Gene-2.37           TAATTTTCCACATTTGATTGACTCTAATGTGTCGCAGCCTATCAGG---AAGCGTTCACC	503
+Gene-2.12           CAATTTTCCCCACCTGATTGGCTCTGCGATATCGGGGCCAGTCCGG---GTGAGTCCAAG	488
+Gene-2.4            CAATTTTCCCCAACTGATTGGCTCTGAGATATCGGGGCCAGTCCGG---GTGAGTCCAAG	488
+ORCAA               AAATTTTCCGAATTCGCTCGGTTCGACCGCTATTGACCATAATCCTGTTCGGGTAGGTTC	506
+ORCAB               TAATTTTCCTCACCTGCTTAATTGTGTAGCGCAACCAGCTA------------GGGTGGG	836
+cal_g006465.t1      TAATTTTCCGCATTTGATTAACTGTAATAGTATTGAATCGAAACCGCCCGTTAGGGTTGG	527
+cal_g006468.t1      CAATTTTCCAAACCTAGTTGGATCGACTGTTGCTCCGGTTCGAGTCAGTCCGAGAAAGCG	512
+ORCAE               AAATTTTCCCAATCTTATTGGTTCTGCTAATGCTCCGGTTAGAGTAAGTCCTAGACGCCG	605
+cal_g006467.t1      TAATTTTCCTCATTTGATTGGTTCGCTTGAAGTTCGTGGACCTGTCAGAATTAACCCTAG	509
+cal_g006466.t1      TAATTTCCCTAATCTCATTGGTTCCAATATTCCTGGACCAGTTA---GAGTCAACCCAAG	521
+ORCAD               TAATTTTCCTCATTTGATTGGTTCGAATATTTCCGGACCCGTTA---GAGTAAACCCGAG	518
+ORCAC               TAATTTTCCTCATTTGATTGGATCCAATATTTCGGAACCCGTTA---GAGTAAACCCGAG	587
+                     ***** **  *     *    *                                     
+
+Gene-2.28           AAG------GCGTCCATTGGAAC------GTTCATTTTCATCTTCACCGGTAGCAAGAGA	578
+Gene-2.37           TGA------TCCTTCTGCATCTT------CTTCATCGTCGGAGGAAA-------------	538
+Gene-2.12           AAG------GCGTTTGAGAGATC------TTCCATTTTCAGCTTCATCGCTAACGGAGAA	536
+Gene-2.4            AAG------GCGTTTGAGAGATC------TCCCATTTTCAGCTTCATCATTAGCGGAGAA	536
+ORCAA               AAGATCAAGGCGGTCGTATTCGA-------ATCATCTTGGCCGTA------AACAATAG-	552
+ORCAB               ACAACGGAGGCGCGCGATGG---------AGTCTTCTTCTTCATCGGAGTCGGAAACGGA	887
+cal_g006465.t1      CCAAAGGAAGCGCTACCGTTCGGAGACTTCGTCTTCTTCTTCCTCATCGTTGACGTCGGA	587
+cal_g006468.t1      ATCTTTTTCACCAAATGCTGATTCTTCTCCTTCCTCTTCCACTCAAAGCTGCT------T	566
+ORCAE               ATCTTCATCGTGTC-------ATCTCCGTCCTCAATAA----------------------	636
+cal_g006467.t1      AATTAGGCGTTTTCC---------TTCCTCGTCAGAAAACA-------AGATT---AACC	550
+cal_g006466.t1      AAGGCGTTTTCCACGAGTTTCATCTCCGTCATTACAACACAGTGGTCAAAAGA-------	574
+ORCAD               AAAACGTTTCCCTGCGGAGCCTTCTACGATGTCGTCGTCGTCTTCTTCTTCTTCTTCGTC	578
+ORCAC               AAAGCGTTACCGAAAGCTTACGACGACGTCGTCTTC------------TTATTCATCAGA	635
+                                                                                
+
+Gene-2.28           AAAC-----TTCTACATGCTAGCTCT-------------TGGATGCTCAACTTAA	615
+Gene-2.37           -----AGAATGGCACGCCAAAGAAGAAGAAACGTGGTTGA---------------	573
+Gene-2.12           TGAGAAATGTGTTGATCAAAAGAAGAGGAAAATGGATGTAGATTTCGGATTTTGA	591
+Gene-2.4            TGAGAAAAGTGTTGATCAAAAGAAGAGGAAAATGGATGTAGATTTCGGATTTTGA	591
+ORCAA               -------------------------------------------------------	552
+ORCAB               AAGTCACGGTGGTGCTAGGAAGAAGATGAAACAGGAGACAATATTGTAA------	936
+cal_g006465.t1      AAGTTCTGTAAAA---ATAAAGAAAATCAAAAATTAG------------------	621
+cal_g006468.t1      CGCTACTACTTCTGTAAAGAAAAACTG---A------------------------	594
+ORCAE               -------------------------------------------------------	636
+cal_g006467.t1      TGAAGAATGAGAAGAAGACAA-----G---AATTAATTAA---------------	582
+cal_g006466.t1      ---AGAGACG--------------------ATTATCATAA---------------	591
+ORCAD               TGAAAATAGTGGAGGAAGGAAGAAGAG---ACGATATTAA---------------	615
+ORCAC               AGAAGACAACGAGGGACGAAAGAAGAG---AAGAAATTAA---------------	672
+                                                                           
