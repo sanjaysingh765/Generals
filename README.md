@@ -22,3 +22,7 @@ http://www.bioinformatics-made-simple.com/2019/08/how-to-add-function-descriptio
 # ggplot2_heatmap.R
 to create a heatmap showing the significance level
 http://www.bioinformatics-made-simple.com/2019/09/draw-heatmap-with-custom-symbol-in-cell.html
+
+# Ka_Ks_calculator.R
+To calculate the Ka, KS value and its ratio
+http://www.bioinformatics-made-simple.com/2020/01/easiest-way-to-calculate-ka-ks-ratio.html
