@@ -29,7 +29,7 @@ http://www.bioinformatics-made-simple.com/2019/09/draw-heatmap-with-custom-symbo
 To calculate the Ka, KS value and its ratio
 http://www.bioinformatics-made-simple.com/2020/01/easiest-way-to-calculate-ka-ks-ratio.html
 
-#optimal_cluster_finder.R
+# optimal_cluster_finder.R
 To find number of cluster in gene expression data
 
 http://www.bioinformatics-made-simple.com/2020/01/easiest-way-to-find-number-of-cluster.html
